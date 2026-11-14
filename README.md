@@ -1,0 +1,2 @@
+# digital-payment-and-accounting-tools-for-small-shops-CNN-model-
+**Digital Payments and Accounting Tools for Kirana Stores Using CNN** is a project that uses Convolutional Neural Networks (CNN) to classify receipt images into four categories: clear, blurred, low-contrast, and skewed. Receipt images are downloaded from an online dataset, preprocessed, resized, and divided into training and testing sets. 
